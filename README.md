@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Neural+Networks+%E2%80%A2+Deep+Learning+%E2%80%A2+AI+Research;Transforming+Raw+Data+into+Intelligence;Building+the+Future%2C+One+Layer+at+a+Time" alt="AI Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00F7F7&center=true&vCenter=true&width=900&lines=Neural+Networks+%E2%80%A2+Deep+Learning+%E2%80%A2+AI+Research;Transforming+Raw+Data+into+Intelligence;Building+the+Future%2C+One+Layer+at+a+Time" alt="AI Typing SVG" />
 </div>
 
 <p align="center">
