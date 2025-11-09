@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Neural_Networks-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Research-Deep_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Intelligence-7C3AED?style=for-the-badge&logo=brain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Machine_Learning-7C3AED?style=for-the-badge&logoColor=white" />
 </p>
 
 <p align="center">
@@ -30,36 +30,21 @@
 <br>
 
 <div align="center">
-  
-### 🧠 Neural Architecture
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+### 💻 Core Technologies
 
-**Training Models** • **Optimizing Architectures** • **Pushing Boundaries** • **Advancing Intelligence**
-
-</div>
-
-<div align="center">
-
-### 🔬 Research Stack
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+**Neural Networks** • **Deep Learning** • **Computer Vision** • **Natural Language Processing**
 
 </div>
 
 <div align="center">
 
 ```
-⚡ Neural Networks | 🔥 Gradient Descent | 🎯 Backpropagation | 🧮 Matrix Operations
+⚡ Training Models | 🔥 Optimizing Networks | 🎯 Research & Development
 ```
 
 ```
-🌍 Based in Vietnam  |  🔬 Building Intelligence  |  ☕ Coffee → Intelligence
+🌍 Based in Vietnam  |  🔬 AI Research  |  ☕ Coffee → Intelligence
 ```
 
 </div>
@@ -75,16 +60,13 @@
 <h2 align="center">⚡ The Intelligence Function</h2>
 
 <div align="center">
-  
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="700">
 
 ### Neural Convergence Theorem
 
 $$\mathcal{L}^* = \mathbb{E}_{(\mathbf{x},\mathbf{y}) \sim p_{\text{data}}} \left[ \log p_\theta(\mathbf{y}|\mathbf{x}) \right] - \lambda \cdot D_{KL}(q_\phi(\mathbf{z}|\mathbf{x}) \parallel p(\mathbf{z})) + \alpha \cdot I(\mathbf{z};\mathbf{y})$$
 
-*Where consciousness emerges from infinite layers of abstraction,*  
-*each neuron a universe, each connection a possibility,*  
-*converging towards artificial intelligence.*
+*Where intelligence emerges from infinite layers of abstraction,*  
+*each neuron a universe, each connection a possibility.*
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="600">
 
