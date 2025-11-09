@@ -63,10 +63,6 @@ $$\mathcal{L}^* = \mathbb{E}_{(\mathbf{x},\mathbf{y}) \sim p_{\text{data}}} \lef
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QForge-Labs&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&langs_count=12&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda" alt="Top Languages" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=QForge-Labs&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=61DAFB&line=61DAFB&point=C9D1D9" alt="Contribution Graph" width="95%" />
 </div>
 
