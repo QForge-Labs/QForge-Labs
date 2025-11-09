@@ -7,13 +7,13 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Neural+Networks+%E2%80%A2+Deep+Learning+%E2%80%A2+AGI+Research;Transforming+Raw+Data+into+Intelligence;Building+the+Future%2C+One+Layer+at+a+Time" alt="AI Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Neural+Networks+%E2%80%A2+Deep+Learning+%E2%80%A2+AI+Research;Transforming+Raw+Data+into+Intelligence;Building+the+Future%2C+One+Layer+at+a+Time" alt="AI Typing SVG" />
 </div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Neural_Networks-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Research-Deep_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-AGI-7C3AED?style=for-the-badge&logo=brain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Intelligence-7C3AED?style=for-the-badge&logo=brain&logoColor=white" />
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-**Training Models** • **Optimizing Architectures** • **Pushing Boundaries** • **Advancing AGI**
+**Training Models** • **Optimizing Architectures** • **Pushing Boundaries** • **Advancing Intelligence**
 
 </div>
 
@@ -43,70 +43,13 @@
 
 ### 🔬 Research Stack
 
-<table>
-<tr>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-  <br>Python
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
-  <br>PyTorch
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-  <br>TensorFlow
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-  <br>C++
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-  <br>C
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="MATLAB" />
-  <br>MATLAB
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-  <br>React
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-  <br>JavaScript
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=cuda" width="48" height="48" alt="CUDA" />
-  <br>CUDA
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-  <br>Docker
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-  <br>Git
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-  <br>Linux
-</td>
-</tr>
-</table>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 </div>
 
 <div align="center">
@@ -116,7 +59,7 @@
 ```
 
 ```
-🌍 Based in Vietnam  |  🔬 Building AGI  |  ☕ Coffee → Intelligence
+🌍 Based in Vietnam  |  🔬 Building Intelligence  |  ☕ Coffee → Intelligence
 ```
 
 </div>
@@ -141,7 +84,7 @@ $$\mathcal{L}^* = \mathbb{E}_{(\mathbf{x},\mathbf{y}) \sim p_{\text{data}}} \lef
 
 *Where consciousness emerges from infinite layers of abstraction,*  
 *each neuron a universe, each connection a possibility,*  
-*converging towards artificial general intelligence.*
+*converging towards artificial intelligence.*
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="600">
 
