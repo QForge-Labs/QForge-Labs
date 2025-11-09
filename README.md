@@ -27,7 +27,7 @@
 
 <div align="center">
 
-### 💻 Core Technologies
+### 💻 Core Technologies 💻
 
 **Neural Networks** • **Deep Learning** • **Computer Vision** • **Natural Language Processing**
 
