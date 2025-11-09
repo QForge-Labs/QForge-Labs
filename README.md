@@ -23,10 +23,6 @@
   <img src="https://img.shields.io/github/stars/QForge-Labs?style=social" alt="GitHub Stars">
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=QForge%20Labs&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
-</div>
-
 <br>
 
 <div align="center">
