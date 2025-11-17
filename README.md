@@ -160,12 +160,12 @@ $$\mathcal{L}^* = \mathbb{E}_{(\mathbf{x},\mathbf{y}) \sim p_{\text{data}}} \lef
     <td align="center" width="25%">
       <span style="font-size: 48px;">🔒</span>
       <br><b>90%+</b>
-      <br><sub>Private Repos</sub>
+      <br><sub>Private</sub>
     </td>
     <td align="center" width="25%">
       <span style="font-size: 48px;">🚀</span>
       <br><b>Active</b>
-      <br><sub>Multiple Projects</sub>
+      <br><sub>Projects</sub>
     </td>
   </tr>
 </table>
