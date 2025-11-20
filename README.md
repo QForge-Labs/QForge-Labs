@@ -81,7 +81,7 @@ $$\mathcal{L}^* = \mathbb{E}_{(\mathbf{x},\mathbf{y}) \sim p_{\text{data}}} \lef
 <br><br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30" alt="GitHub" style="margin-right: 10px;" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60" alt="GitHub Chart" />
 </div>
 
 <br><br>
