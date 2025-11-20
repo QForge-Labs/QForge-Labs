@@ -81,7 +81,7 @@ $$\mathcal{L}^* = \mathbb{E}_{(\mathbf{x},\mathbf{y}) \sim p_{\text{data}}} \lef
 <br><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QForge-Labs&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&langs_count=6&card_width=300" alt="Top Languages" />
+  <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.starlists.languages.svg" alt="Languages from Star Lists" width="400" />
 </div>
 
 <br><br>
