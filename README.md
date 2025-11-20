@@ -81,12 +81,6 @@ $$\mathcal{L}^* = \mathbb{E}_{(\mathbf{x},\mathbf{y}) \sim p_{\text{data}}} \lef
 <br><br>
 
 <div align="center">
-  <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.starlists.languages.svg" alt="Languages from Star Lists" width="400" />
-</div>
-
-<br><br>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QForge-Labs&theme=radical" width="95%" />
 </div>
 
