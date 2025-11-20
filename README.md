@@ -86,6 +86,24 @@ $$\mathcal{L}^* = \mathbb{E}_{(\mathbf{x},\mathbf{y}) \sim p_{\text{data}}} \lef
 
 <br><br>
 
+<h2 align="center">🏆 Achievements</h2>
+
+<div align="center">
+  <details open>
+    <summary><b>📊 Compact Display</b></summary>
+    <br>
+    <img src="https://metrics.lecoq.io/QForge-Labs?template=classic&base=&plugin_achievements=1&plugin_achievements.threshold=C&plugin_achievements.secrets=true&plugin_achievements.display=compact&plugin_achievements.limit=0&config.timezone=Asia%2FHo_Chi_Minh" alt="Achievements Compact" />
+  </details>
+  
+  <details>
+    <summary><b>🌟 Detailed Display</b></summary>
+    <br>
+    <img src="https://metrics.lecoq.io/QForge-Labs?template=classic&base=&plugin_achievements=1&plugin_achievements.threshold=C&plugin_achievements.secrets=true&plugin_achievements.display=detailed&plugin_achievements.limit=0&config.timezone=Asia%2FHo_Chi_Minh" alt="Achievements Detailed" />
+  </details>
+</div>
+
+<br><br>
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QForge-Labs&theme=radical" width="95%" />
 </div>
