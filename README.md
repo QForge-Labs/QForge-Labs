@@ -198,6 +198,18 @@ $$\mathcal{L}^* = \mathbb{E}_{(\mathbf{x},\mathbf{y}) \sim p_{\text{data}}} \lef
 
 <br><br>
 
+<h2 align="center">📅 Isometric Commit Calendar</h2>
+
+<div align="center">
+  <details open>
+    <summary><b>📆 Full Year Calendar</b></summary>
+    <br>
+    <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt="Full Year Calendar" width="95%" />
+  </details>
+</div>
+
+<br><br>
+
 <h2 align="center">💭 Inspiration</h2>
 
 <div align="center">
