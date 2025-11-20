@@ -81,7 +81,7 @@ $$\mathcal{L}^* = \mathbb{E}_{(\mathbf{x},\mathbf{y}) \sim p_{\text{data}}} \lef
 <br><br>
 
 <div align="center">
-  <span style="font-size: 32px;">📊</span>
+  <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.starlists.languages.svg" alt="Languages" />
 </div>
 
 <br><br>
