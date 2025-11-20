@@ -81,7 +81,7 @@ $$\mathcal{L}^* = \mathbb{E}_{(\mathbf{x},\mathbf{y}) \sim p_{\text{data}}} \lef
 <br><br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/⭐-GitHub-yellow?style=flat" width="150" alt="GitHub Badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=QForge-Labs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9&ring_color=61DAFB&count_private=true" width="95%" alt="GitHub Stats" />
 </div>
 
 <br><br>
