@@ -74,7 +74,7 @@ $$\mathcal{L}^* = \mathbb{E}_{(\mathbf{x},\mathbf{y}) \sim p_{\text{data}}} \lef
 </h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=QForge-Labs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9&ring_color=61DAFB&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://camo.githubusercontent.com/ba1a3886f78dbf5046bb172d6d9929836c664bfe0d06d356d996f925473c3f79/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d51466f7267652d4c6162732673686f775f69636f6e733d74727565267468656d653d7261646963616c26686964655f626f726465723d747275652662675f636f6c6f723d304431313137267469746c655f636f6c6f723d3631444146422669636f6e5f636f6c6f723d36314441464226746578745f636f6c6f723d4339443144392672696e675f636f6c6f723d36314441464226636f756e745f707269766174653d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565" alt="GitHub Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=QForge-Labs&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=61DAFB&amp;icon_color=61DAFB&amp;text_color=C9D1D9&amp;ring_color=61DAFB&amp;count_private=true&amp;include_all_commits=true" style="max-width: 100%;">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=QForge-Labs&theme=radical&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" />
 </div>
 
