@@ -73,9 +73,11 @@ $$\mathcal{L}^* = \mathbb{E}_{(\mathbf{x},\mathbf{y}) \sim p_{\text{data}}} \lef
   GitHub Statistics
 </h2>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QForge-Labs&theme=radical" width="50%" height="180" alt="GitHub Stats" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=QForge-Labs&theme=radical&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" width="50%" height="180" alt="GitHub Streak" />
+<div style="width: 100%;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QForge-Labs&theme=radical" width="48%" height="180" align="left" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QForge-Labs&theme=radical&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" width="48%" height="180" align="right" alt="GitHub Streak" />
 </div>
+<div style="clear: both;"></div>
 
 <br>
 
