@@ -73,16 +73,21 @@ $$\mathcal{L}^* = \mathbb{E}_{(\mathbf{x},\mathbf{y}) \sim p_{\text{data}}} \lef
   GitHub Statistics
 </h2>
 
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QForge-Labs&theme=radical" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=QForge-Labs&theme=radical&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" />
-</div>
-
-<br><br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QForge-Labs&theme=radical" width="95%" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QForge-Labs&theme=radical" alt="GitHub Stats" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=QForge-Labs&theme=radical&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QForge-Labs&theme=radical" alt="Profile Details" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br><br>
 
