@@ -4,6 +4,7 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=QForge%20Labs&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
+  <img src="https://komarev.com/ghpvc/?username=QForge-Labs&style=for-the-badge&color=blueviolet" alt="Profile Views">
 </div>
 
 <div align="center">
@@ -269,6 +270,4 @@ $$\mathcal{L}^* = \mathbb{E}_{(\mathbf{x},\mathbf{y}) \sim p_{\text{data}}} \lef
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
   
   **Thanks for visiting! Let's build something amazing together! 🚀**
-  
-  <img src="https://komarev.com/ghpvc/?username=QForge-Labs&style=for-the-badge&color=blueviolet" alt="Profile Views">
 </div>
