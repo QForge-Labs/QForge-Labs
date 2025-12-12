@@ -64,18 +64,19 @@ $$\mathcal{L}^* = \mathbb{E}_{(\mathbf{x},\mathbf{y}) \sim p_{\text{data}}} \lef
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QForge-Labs&theme=radical" width="100%" alt="GitHub Stats" />
     </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=QForge-Labs&theme=radical&hide_border=true" width="100%" alt="Activity Graph" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=QForge-Labs&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=stars,prs,issues,contribs" width="100%" alt="Commits" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QForge-Labs&theme=radical" width="100%" alt="Profile Details" />
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QForge-Labs&theme=radical" width="98%" alt="Profile Details" />
-</div>
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
