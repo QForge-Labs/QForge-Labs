@@ -68,7 +68,7 @@ $$\mathcal{L}^* = \mathbb{E}_{(\mathbf{x},\mathbf{y}) \sim p_{\text{data}}} \lef
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QForge-Labs&theme=radical" width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=QForge-Labs&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=stars,prs,issues,contribs" width="100%" alt="Commits" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=QForge-Labs&theme=radical&hide_border=true&area=true" width="100%" alt="Activity Graph" />
     </td>
   </tr>
   <tr>
