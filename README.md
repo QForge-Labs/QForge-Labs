@@ -62,10 +62,16 @@ $$\mathcal{L}^* = \mathbb{E}_{(\mathbf{x},\mathbf{y}) \sim p_{\text{data}}} \lef
   GitHub Statistics
 </h2>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QForge-Labs&theme=radical" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=QForge-Labs&theme=radical&hide_border=true" width="48%" alt="Activity Graph" />
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QForge-Labs&theme=radical" width="100%" alt="GitHub Stats" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=QForge-Labs&theme=radical&hide_border=true" width="100%" alt="Activity Graph" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QForge-Labs&theme=radical" width="98%" alt="Profile Details" />
